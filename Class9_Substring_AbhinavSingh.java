@@ -40,6 +40,6 @@ public class Class9_Substring_AbhinavSingh {
                   j++;
               }
             }
-           System.out.println();
+           
            }
       }}
